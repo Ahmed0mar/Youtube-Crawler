@@ -17,6 +17,6 @@ Installation
 ------------
 
 Install $Crawler by running:
-       to install the crawler we will need to install Pafy module which used to extract most of the data from youtube:
-           pip install pafy
+       to install the important Modules to run the Crawler we will need to install Pafy module which used to extract most of the data from youtube:
+              -pip install pafy
 
