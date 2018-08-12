@@ -1,5 +1,5 @@
 
-$Crawler
+Crawler
 ========
 
 $Crawler is a youtube crawler to get data from youtube playlist or a channel.
